@@ -1,0 +1,46 @@
+.colorPrimerContainer {
+    background: rgb(33, 111, 177);
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em black, 0 0 0.2em black;
+    padding: 8px 8px;
+}
+.colorCasContainer{
+  background: rgb(33, 111, 177);
+    color: white; 
+    padding: 30px 0px;
+    background-image:url("https://www.e-contact.cl/wp-content/uploads/2021/02/Recurso-2ec.png");
+}
+.colorSegundoContainer{
+    background: rgb(44, 153, 163);
+    color: white;
+    padding: 38px 38px;
+}
+.colorQuintoContainer{
+    background: rgb(44, 153, 163);
+    color: white;
+    padding: 28px 0px;
+    margin:50px 0px;
+}
+.sizeLetter{
+    font-size:12.7px;
+    text-align: left;
+}
+.sizeLetterDos{
+    font-size:12.6px;
+    text-align: center;
+}
+hr {
+  border-color: black;
+}
+.colorCards{
+      background: rgb(33, 111, 177);  
+          color: white;
+}
+.paddingBottom{
+padding-bottom:8px;
+}
+.colorUltimoContainer {
+    background: rgb(57, 57, 59);
+    color: white;
+    padding: 8px 8px;
+}
